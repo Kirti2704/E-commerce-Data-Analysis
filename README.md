@@ -1,2 +1,2 @@
-# E-commerce-Data-Analysis
-E-commerce Analysis using Linear Regression: Analyzing an Ecommerce Company's (fictional) dataset to determine whether to focus their efforts on enhancing their mobile app experience or their website.
+# Exploratory-Data-Analysis-on-E-commerce-Purchases
+This notebook looks into various Python based libraries of Data Analytics and Data Visualization to perform a case study on a dataset of E-Commerce Purchases 
